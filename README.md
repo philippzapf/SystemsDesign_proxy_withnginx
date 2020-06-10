@@ -1,6 +1,6 @@
 # SystemsDesign - Proxy with nginx 
 
-Ein kleines Coding Beispiel, um die Response vom Server zu zeigen mit und ohne Proxy.
+Ein kleines Coding Beispiel, um die Response vom Server zu zeigen mit und ohne Proxy. Nginx wird hier als Reverse Proxy benutzt.
 
 
 ## Schritt 1
